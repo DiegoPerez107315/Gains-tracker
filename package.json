@@ -1,0 +1,29 @@
+{
+  "name": "gains-tracker",
+  "version": "1.0.0",
+  "description": "Aplicacion web para tener control sobre ganacias en plataformas de transporte para aplicar estragias generadoras de ganancias",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "transport",
+    "earnings",
+    "tracker",
+    "gains"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^24.5.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7"
+  }
+}
